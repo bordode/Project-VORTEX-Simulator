@@ -73,6 +73,12 @@ python gpe_vortex_sim.py
 
 ---
 
+## 📖 Documentation
+
+*   [Background: what a BEC vortex is — and what it isn't](docs/background.md) — no warp drive, analog gravity, and quantum inertial navigation as the real payoff.
+
+---
+
 ## 🗺️ Roadmap
 
 *   [x] **v0.1.0:** Basic 2D GPE Split-Step Solver with Harmonic Trap.
@@ -95,4 +101,4 @@ python gpe_vortex_sim.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-*Project VORTEX is an independent research tool and is not affiliated with the China Manned Space Agency (CMSA) or the Tiangong program.
+*Project VORTEX is an independent research tool and is not affiliated with the China Manned Space Agency (CMSA) or the Tiangong program.*
